@@ -1,0 +1,5 @@
+<%
+var View = require("../../lib/view.js").View;
+
+View.render("api");
+%>
